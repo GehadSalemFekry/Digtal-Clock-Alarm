@@ -1,4 +1,4 @@
-# Verilog Alarm Clcok
+# Verilog Alarm Clock
 A Digital Clock/Alarm System implemented using Verilog. This project was created for the Digital Desgin I (CSCE 2301) course. The project was created using Vivado software and implemented on the Basys 3 FPGA board. This readme file is a short summary of the project. For more information like the finite state machines and block diagrams, please refer to the project report.
 
 ## Repository Structure
